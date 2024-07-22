@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    float: left;
+    margin: 0 50px;
+}
+.a{
+    text-decoration: none;
+    color: rgb(45, 94, 201);
+}
+.b1{
+    width: 70px;
+}
+.c2{
+    margin: 0 0 0 300px;
+}
+.a:hover{
+    background-color: aqua;
+}
